@@ -8,4 +8,8 @@ E:\CDAC\ .Net\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplicat
 E:\CDAC\ .Net\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
 E:\CDAC\ .Net\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
 E:\CDAC\ .Net\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
-E:\CDAC\ .Net\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+E:\CDAC\ .Net\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.pdb

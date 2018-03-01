@@ -158,4 +158,18 @@
             Sapi.speak("Z for Zebra")
         End With
     End Sub
+
+    Private Sub Button27_Click(sender As Object, e As EventArgs) Handles Button27.Click
+        If ProgressBar1.Value < 100 Then
+            ProgressBar1.Value += 10
+        End If
+
+    End Sub
+
+    Private Sub Button28_Click(sender As Object, e As EventArgs) Handles Button28.Click
+        If ProgressBar1.Value > 0 Then
+            ProgressBar1.Value -= 10
+        End If
+
+    End Sub
 End Class

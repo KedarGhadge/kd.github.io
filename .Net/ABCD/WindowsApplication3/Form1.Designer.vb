@@ -48,6 +48,9 @@ Partial Class Form1
         Me.Button24 = New System.Windows.Forms.Button()
         Me.Button25 = New System.Windows.Forms.Button()
         Me.Button26 = New System.Windows.Forms.Button()
+        Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
+        Me.Button27 = New System.Windows.Forms.Button()
+        Me.Button28 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Button1
@@ -284,11 +287,41 @@ Partial Class Form1
         Me.Button26.Text = "Z"
         Me.Button26.UseVisualStyleBackColor = True
         '
+        'ProgressBar1
+        '
+        Me.ProgressBar1.Location = New System.Drawing.Point(13, 200)
+        Me.ProgressBar1.Name = "ProgressBar1"
+        Me.ProgressBar1.Size = New System.Drawing.Size(305, 23)
+        Me.ProgressBar1.TabIndex = 26
+        '
+        'Button27
+        '
+        Me.Button27.BackColor = System.Drawing.SystemColors.ControlDarkDark
+        Me.Button27.Location = New System.Drawing.Point(27, 229)
+        Me.Button27.Name = "Button27"
+        Me.Button27.Size = New System.Drawing.Size(41, 24)
+        Me.Button27.TabIndex = 27
+        Me.Button27.Text = "+"
+        Me.Button27.UseVisualStyleBackColor = False
+        '
+        'Button28
+        '
+        Me.Button28.BackColor = System.Drawing.SystemColors.ControlDarkDark
+        Me.Button28.Location = New System.Drawing.Point(74, 229)
+        Me.Button28.Name = "Button28"
+        Me.Button28.Size = New System.Drawing.Size(41, 24)
+        Me.Button28.TabIndex = 28
+        Me.Button28.Text = "-"
+        Me.Button28.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(484, 261)
+        Me.Controls.Add(Me.Button28)
+        Me.Controls.Add(Me.Button27)
+        Me.Controls.Add(Me.ProgressBar1)
         Me.Controls.Add(Me.Button26)
         Me.Controls.Add(Me.Button25)
         Me.Controls.Add(Me.Button24)
@@ -347,4 +380,7 @@ Partial Class Form1
     Friend WithEvents Button24 As Button
     Friend WithEvents Button25 As Button
     Friend WithEvents Button26 As Button
+    Friend WithEvents ProgressBar1 As ProgressBar
+    Friend WithEvents Button27 As Button
+    Friend WithEvents Button28 As Button
 End Class
