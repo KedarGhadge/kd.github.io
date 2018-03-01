@@ -1,6 +1,8 @@
 ﻿Public Class Form1
 
     Dim Sapi = CreateObject("Sapi.spvoice")
+
+
     ' create an object and assign an API spvoice to it
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         With Sapi
@@ -156,12 +158,14 @@
     Private Sub Button26_Click(sender As Object, e As EventArgs) Handles Button26.Click
         With Sapi
             Sapi.speak("Z for Zebra")
+
         End With
     End Sub
 
     Private Sub Button27_Click(sender As Object, e As EventArgs) Handles Button27.Click
         If ProgressBar1.Value < 100 Then
             ProgressBar1.Value += 10
+            Sapi.volume = ProgressBar1.Value
         End If
 
     End Sub
@@ -169,6 +173,7 @@
     Private Sub Button28_Click(sender As Object, e As EventArgs) Handles Button28.Click
         If ProgressBar1.Value > 0 Then
             ProgressBar1.Value -= 10
+            Sapi.volume = ProgressBar1.Value
         End If
 
     End Sub

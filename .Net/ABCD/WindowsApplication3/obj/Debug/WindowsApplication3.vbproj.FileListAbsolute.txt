@@ -13,3 +13,10 @@ C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\bin\Debug\
 C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.exe
 C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.xml
 C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\MY LAPTOP\Desktop\kd.github.io\.Net\ABCD\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
